@@ -163,7 +163,8 @@ npm start
 
 ## Project Structure
 
-/express-assignment
+  ```
+   /express-assignment
  ├── /models
  │   ├── User.js
  │   ├── Product.js
@@ -179,6 +180,7 @@ npm start
  ├── index.js
  ├── package.json
  ├── README.md
+   ```
 
 ## License
 
