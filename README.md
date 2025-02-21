@@ -80,7 +80,7 @@ npm start
     }
     ```
 - **Screenshot**:
-    ![Create User Screenshot](screenshots/create_user.png)
+    ![Create User Screenshot](express-assignment/screenshots/create_user.png)
 
 2️⃣ **Update a User (PUT)**
 - **Method**: PUT
@@ -94,19 +94,19 @@ npm start
     }
     ```
 - **Screenshot**:
-    ![Update User Screenshot](screenshots/update_user.png)
+    ![Update User Screenshot](express-assignment/screenshots/update_user.png)
 
 3️⃣ **Get All Users (GET)**
 - **Method**: GET
 - **URL**: `http://localhost:5000/users`
 - **Screenshot**:
-    ![Get All Users Screenshot](screenshots/get_users.png)
+    ![Get All Users Screenshot](express-assignment/screenshots/get_users.png)
 
 4️⃣ **Delete a User (DELETE)**
 - **Method**: DELETE
 - **URL**: `http://localhost:5000/users/<user_id>`
 - **Screenshot**:
-    ![Delete User Screenshot](screenshots/delete_user.png)
+    ![Delete User Screenshot](express-assignment/screenshots/delete_user.png)
 
 ---
 
@@ -133,7 +133,7 @@ npm start
     }
     ```
 - **Screenshot**:
-    ![Create Product Screenshot](screenshots/create_product.png)
+    ![Create Product Screenshot](express-assignment/screenshots/create_product.png)
 
 2️⃣ **Update a Product (PUT)**
 - **Method**: PUT
@@ -147,19 +147,19 @@ npm start
     }
     ```
 - **Screenshot**:
-    ![Update Product Screenshot](screenshots/update_product.png)
+    ![Update Product Screenshot](express-assignment/screenshots/update_product.png)
 
 3️⃣ **Get All Products (GET)**
 - **Method**: GET
 - **URL**: `http://localhost:5000/products`
 - **Screenshot**:
-    ![Get All Products Screenshot](screenshots/get_products.png)
+    ![Get All Products Screenshot](express-assignment/screenshots/get_products.png)
 
 4️⃣  **Delete a Product (DELETE)**
 - **Method**: DELETE
 - **URL**: `http://localhost:5000/products/<product_id>`
 - **Screenshot**:
-    ![Delete Product Screenshot](screenshots/delete_product.png)
+    ![Delete Product Screenshot](express-assignment/screenshots/delete_product.png)
 
 ## Project Structure
 
