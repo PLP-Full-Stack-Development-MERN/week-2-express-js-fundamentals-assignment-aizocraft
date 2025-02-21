@@ -11,64 +11,6 @@ This is a **Node.js + Express API** with MongoDB for managing **Users** and **Pr
 
 ---
 
-## 🚀 Getting Started
-
-### 1️⃣ **Clone the Repository**
-
-git clone https://github.com/your-username/express-assignment.git
-cd express-assignment
-
-### 2️⃣ Install Dependencies
-
-npm install
-
-3️⃣ Set Up Environment Variables
-
-Create a .env file in the root directory and add:
-
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/expressDB
-
-
-4️⃣ Run the Server
-
-
-npm run dev
-
-or
-
-npm start
-
-📌 API Endpoints
-👤 User Routes
-Method	Endpoint	Description
-POST	/users	Create a new user
-GET	/users	Get all users
-GET	/users/:id	Get a user by ID
-PUT	/users/:id	Update a user
-DELETE	/users/:id	Delete a user
-🛒 Product Routes
-Method	Endpoint	Description
-POST	/products	Create a new product
-GET	/products	Get all products
-GET	/products/:id	Get a product by ID
-PUT	/products/:id	Update a product
-DELETE	/products/:id	Delete a product
-
-
-# Express Assignment API 🚀
-
-This is a **Node.js + Express API** with MongoDB for managing **Users** and **Products**. It supports CRUD operations and uses **Mongoose** for database management.
-
-## 📌 Features
-- ✅ User and Product Management
-- ✅ Create, Read, Update, Delete (CRUD) operations
-- ✅ Middleware for Logging and Error Handling
-- ✅ Environment Variables with `.env`
-- ✅ MongoDB Connection using Mongoose
-
----
-
 
 ## Usage/Examples
 
@@ -111,6 +53,7 @@ npm start
 ```
 
 
+---
 
 ## API Endpoints
 
